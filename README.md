@@ -1,5 +1,6 @@
 # Food-Market-Code
  Make food market apps using react-native framework
  **Screenshot**
-<img src="Screenshot/Splash.png">
-<img src="Screenshot/Login.png">
+ <br>
+<img src="Screenshot/Splash.png" width="400" Height="700">
+<img src="Screenshot/Login.png" width="400" Height="700">
