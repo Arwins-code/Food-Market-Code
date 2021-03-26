@@ -48,9 +48,9 @@ First, you will need to start Metro, the JavaScript bundler that ships with Reac
 
 To start Metro, run npx react-native start inside your React Native project folder:
 
-**npx react-native start**
+**~ npx react-native start**
 <br>
-**react-native start starts Metro Bundler.**
+**~ react-native start starts Metro Bundler.**
 <br>
 
 If you use the Yarn package manager, you can use yarn instead of npx when running React Native commands inside an existing project.
@@ -60,6 +60,7 @@ If you're familiar with web development, Metro is a lot like webpack—for React
 ## Step 2: Start your application
 Let Metro Bundler run in its own terminal. Open a new terminal inside your React Native project folder. Run the following:
 
-**npx react-native run-android**
+**~ npx react-native run-android**
+<br>
 <br>
 If everything is set up correctly, you should see your new app running in your Android emulator shortly.
